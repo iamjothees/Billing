@@ -1,0 +1,16 @@
+{
+    "name": "iamjothees/billing",
+    "type": "project",
+    "description" : "The billing application",
+    "autoload": {
+        "psr-4": {
+            "Iamjothees\\Billing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joe"
+        }
+    ],
+    "require": {}
+}
